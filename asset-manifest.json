@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-case-study/static/css/main.c577c268.css",
-    "main.js": "/react-case-study/static/js/main.1c7dbfbd.js",
+    "main.js": "/react-case-study/static/js/main.490c320e.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-case-study/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/react-case-study/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-case-study/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -12,10 +12,10 @@
     "static/media/brand.svg": "/react-case-study/static/media/brand.6accb902bf4cc739fc95f5bc49499975.svg",
     "index.html": "/react-case-study/index.html",
     "main.c577c268.css.map": "/react-case-study/static/css/main.c577c268.css.map",
-    "main.1c7dbfbd.js.map": "/react-case-study/static/js/main.1c7dbfbd.js.map"
+    "main.490c320e.js.map": "/react-case-study/static/js/main.490c320e.js.map"
   },
   "entrypoints": [
     "static/css/main.c577c268.css",
-    "static/js/main.1c7dbfbd.js"
+    "static/js/main.490c320e.js"
   ]
 }
