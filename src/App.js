@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
 import MyWallet from './components/MyWallet';
 import Report from './components/Report';
@@ -10,7 +10,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route index element={<Home />} />
+        {/* <Route path='/react-case-study' element={<Home />} /> */}
+        <Route exact path='/' element={<Home />} />
         <Route path='/sign-in' element={<SignIn />} />
         <Route path='/sign-up' element={<SignUp />} />
 
